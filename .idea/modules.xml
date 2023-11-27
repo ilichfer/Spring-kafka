@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringbootForKafka/SpringbootConsumer/SpringbootConsumer.iml" filepath="$PROJECT_DIR$/SpringbootForKafka/SpringbootConsumer/SpringbootConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringbootForKafka/SpringbootForKafka.iml" filepath="$PROJECT_DIR$/SpringbootForKafka/SpringbootForKafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringbootForKafka/SpringbootProvider/SpringbootProvider.iml" filepath="$PROJECT_DIR$/SpringbootForKafka/SpringbootProvider/SpringbootProvider.iml" />
+    </modules>
+  </component>
+</project>
